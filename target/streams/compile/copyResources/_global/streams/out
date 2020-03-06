@@ -1,0 +1,4 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/h379769/Documents/jason/stock_quotes/conf/logback.xml,/Users/h379769/Documents/jason/stock_quotes/target/scala-2.13/classes/logback.xml)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/h379769/Documents/jason/stock_quotes/conf/application.conf,/Users/h379769/Documents/jason/stock_quotes/target/scala-2.13/classes/application.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/h379769/Documents/jason/stock_quotes/conf/routes,/Users/h379769/Documents/jason/stock_quotes/target/scala-2.13/classes/routes)[0m
